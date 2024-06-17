@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    margin: 50px 0 50px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+
+}
+.item {
+    display: inherit;
+}
